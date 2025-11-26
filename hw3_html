@@ -16,6 +16,5 @@
     <!-- 캔버스가 여기 보임 -->
   </body>
 </html>
-<script src="hw1.js"></script>   <!-- hw1/hw1_.html 파일 안 -->
-<script src="hw2.js"></script>   <!-- hw2/hw2_.html 파일 안 -->
-...
+<script src="hw3.js"></script>   <!-- hw3/hw3_.html 파일 안 -->
+
