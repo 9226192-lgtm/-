@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8">
+    <title>p5.js 과제4</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"></script>
+    <script src="https://unpkg.com/p5.gif/dist/p5.gif.min.js"></script> <!-- GIF 저장용 라이브러리 -->
+    <script src="sketch.js"></script>
+    <style>
+      body { font-family: sans-serif; margin: 20px; }
+    </style>
+  </head>
+  <body>
+    <h2>hw4: p5.js 네 번째 과제</h2>
+    <p>2초 후 자동으로 10초 GIF 저장</p>
+    <!-- 캔버스가 여기 보임 -->
+  </body>
+</html>
